@@ -1,4 +1,4 @@
-# ClassBuilder
+# ClassBuilder documentation
 
 This class is used to create a class with attributes, getters, setters, toString method, a default contructor and a full contructor.
 
