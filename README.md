@@ -39,4 +39,9 @@ try removing the part with the semicolon
 p = name + ".java" ;
 ```
 
+then, recompile the file
+```bash
+javac ClassBuilder.java
+```
+
 If you still get an error, try searching on the internet, otherwise, you can contact me on discord.
