@@ -14,7 +14,7 @@ If you have any question, suggestion, problem, here is my discord : @zespatule
 
 ## Running the tool
 
-To run the tool, open a terminal and type : 
+To run the tool, open a terminal (right click > open in Terminal or with cd ~/path/to/ClassBuilder) and type : 
 ```bash
 java ClassBuilder
 ```
